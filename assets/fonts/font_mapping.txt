@@ -1,0 +1,6 @@
+獅尾腿圓 SC Medium - zh-1
+獅尾彎黑體 SC Bold - zh-2
+栳尨訇窪极 - zh-3
+MicrosoftJhengHei - en-1
+MicrosoftJhengHeiBold - en-1-Bold
+MicrosoftJhengHeiLight - en-1-light
